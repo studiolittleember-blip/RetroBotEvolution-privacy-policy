@@ -1,6 +1,6 @@
 # RetroBoy Evolution – Privacy Policy
 
-**Effective date:** 11/11/2027
+**Effective date:** 11/11/2026
 
 RetroBoy Evolution ("the app") is a Game Boy, Game Boy Color and Game Boy Advance emulator for
 Android, made by Little Ember Studio ("we"). This policy explains what happens to your information when
